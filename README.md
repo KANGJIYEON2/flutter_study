@@ -1,1 +1,1 @@
-# flutter_study
+# flutter 연습용
